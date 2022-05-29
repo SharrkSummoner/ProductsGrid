@@ -1,0 +1,12 @@
+.scroll-pane {
+    -fx-background: #df73ff;
+}
+
+.label {
+ -fx-font-size: 25px;
+}
+
+
+#strikethrough .text {
+-fx-strikethrough: true;
+}
